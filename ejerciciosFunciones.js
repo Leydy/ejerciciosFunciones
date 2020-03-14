@@ -1,6 +1,6 @@
 function celciusFahrenheit(celsius){
   var cTemp = celsius;
-  var cToFahr = cTemp * 9/5 + 32;
+  var cToFahr = cTemp * 9/5+32;
   var convert = cTemp+'\xB0C son ' +cToFahr+ ' \xB0F';
     console.log(convert);
 }
