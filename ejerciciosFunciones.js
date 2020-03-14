@@ -11,5 +11,5 @@ function fahrenheittoCelcius(fahrenheit) {
   var convert = fTemp+'\xB0F son ' +fToCel+ ' \xB0C';
     console.log(convert);
 } 
-celciusFahrenheit(60);
-fahrenheittoCelcius(45);
+celsiusFahrenheit(60);
+fahrenheittoCelsius(45);
